@@ -1,0 +1,557 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		A8DFB6642E8EB3BB00939DF9 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = A8DFB64B2E8EB3BA00939DF9 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = A8DFB6522E8EB3BA00939DF9;
+			remoteInfo = "DNA Animation v2";
+		};
+		A8DFB66E2E8EB3BB00939DF9 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = A8DFB64B2E8EB3BA00939DF9 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = A8DFB6522E8EB3BA00939DF9;
+			remoteInfo = "DNA Animation v2";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		A8DFB6532E8EB3BA00939DF9 /* DNA Animation v2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "DNA Animation v2.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A8DFB6632E8EB3BB00939DF9 /* DNA Animation v2Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "DNA Animation v2Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A8DFB66D2E8EB3BB00939DF9 /* DNA Animation v2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "DNA Animation v2UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		A8DFB6552E8EB3BA00939DF9 /* DNA Animation v2 */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "DNA Animation v2";
+			sourceTree = "<group>";
+		};
+		A8DFB6662E8EB3BB00939DF9 /* DNA Animation v2Tests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "DNA Animation v2Tests";
+			sourceTree = "<group>";
+		};
+		A8DFB6702E8EB3BB00939DF9 /* DNA Animation v2UITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "DNA Animation v2UITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		A8DFB6502E8EB3BA00939DF9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A8DFB6602E8EB3BB00939DF9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A8DFB66A2E8EB3BB00939DF9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		A8DFB64A2E8EB3BA00939DF9 = {
+			isa = PBXGroup;
+			children = (
+				A8DFB6552E8EB3BA00939DF9 /* DNA Animation v2 */,
+				A8DFB6662E8EB3BB00939DF9 /* DNA Animation v2Tests */,
+				A8DFB6702E8EB3BB00939DF9 /* DNA Animation v2UITests */,
+				A8DFB6542E8EB3BA00939DF9 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		A8DFB6542E8EB3BA00939DF9 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A8DFB6532E8EB3BA00939DF9 /* DNA Animation v2.app */,
+				A8DFB6632E8EB3BB00939DF9 /* DNA Animation v2Tests.xctest */,
+				A8DFB66D2E8EB3BB00939DF9 /* DNA Animation v2UITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		A8DFB6522E8EB3BA00939DF9 /* DNA Animation v2 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A8DFB6772E8EB3BB00939DF9 /* Build configuration list for PBXNativeTarget "DNA Animation v2" */;
+			buildPhases = (
+				A8DFB64F2E8EB3BA00939DF9 /* Sources */,
+				A8DFB6502E8EB3BA00939DF9 /* Frameworks */,
+				A8DFB6512E8EB3BA00939DF9 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				A8DFB6552E8EB3BA00939DF9 /* DNA Animation v2 */,
+			);
+			name = "DNA Animation v2";
+			packageProductDependencies = (
+			);
+			productName = "DNA Animation v2";
+			productReference = A8DFB6532E8EB3BA00939DF9 /* DNA Animation v2.app */;
+			productType = "com.apple.product-type.application";
+		};
+		A8DFB6622E8EB3BB00939DF9 /* DNA Animation v2Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A8DFB67A2E8EB3BB00939DF9 /* Build configuration list for PBXNativeTarget "DNA Animation v2Tests" */;
+			buildPhases = (
+				A8DFB65F2E8EB3BB00939DF9 /* Sources */,
+				A8DFB6602E8EB3BB00939DF9 /* Frameworks */,
+				A8DFB6612E8EB3BB00939DF9 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				A8DFB6652E8EB3BB00939DF9 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				A8DFB6662E8EB3BB00939DF9 /* DNA Animation v2Tests */,
+			);
+			name = "DNA Animation v2Tests";
+			packageProductDependencies = (
+			);
+			productName = "DNA Animation v2Tests";
+			productReference = A8DFB6632E8EB3BB00939DF9 /* DNA Animation v2Tests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		A8DFB66C2E8EB3BB00939DF9 /* DNA Animation v2UITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A8DFB67D2E8EB3BB00939DF9 /* Build configuration list for PBXNativeTarget "DNA Animation v2UITests" */;
+			buildPhases = (
+				A8DFB6692E8EB3BB00939DF9 /* Sources */,
+				A8DFB66A2E8EB3BB00939DF9 /* Frameworks */,
+				A8DFB66B2E8EB3BB00939DF9 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				A8DFB66F2E8EB3BB00939DF9 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				A8DFB6702E8EB3BB00939DF9 /* DNA Animation v2UITests */,
+			);
+			name = "DNA Animation v2UITests";
+			packageProductDependencies = (
+			);
+			productName = "DNA Animation v2UITests";
+			productReference = A8DFB66D2E8EB3BB00939DF9 /* DNA Animation v2UITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A8DFB64B2E8EB3BA00939DF9 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1620;
+				LastUpgradeCheck = 1620;
+				TargetAttributes = {
+					A8DFB6522E8EB3BA00939DF9 = {
+						CreatedOnToolsVersion = 16.2;
+					};
+					A8DFB6622E8EB3BB00939DF9 = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = A8DFB6522E8EB3BA00939DF9;
+					};
+					A8DFB66C2E8EB3BB00939DF9 = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = A8DFB6522E8EB3BA00939DF9;
+					};
+				};
+			};
+			buildConfigurationList = A8DFB64E2E8EB3BA00939DF9 /* Build configuration list for PBXProject "DNA Animation v2" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = A8DFB64A2E8EB3BA00939DF9;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = A8DFB6542E8EB3BA00939DF9 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A8DFB6522E8EB3BA00939DF9 /* DNA Animation v2 */,
+				A8DFB6622E8EB3BB00939DF9 /* DNA Animation v2Tests */,
+				A8DFB66C2E8EB3BB00939DF9 /* DNA Animation v2UITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		A8DFB6512E8EB3BA00939DF9 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A8DFB6612E8EB3BB00939DF9 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A8DFB66B2E8EB3BB00939DF9 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		A8DFB64F2E8EB3BA00939DF9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A8DFB65F2E8EB3BB00939DF9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A8DFB6692E8EB3BB00939DF9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		A8DFB6652E8EB3BB00939DF9 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = A8DFB6522E8EB3BA00939DF9 /* DNA Animation v2 */;
+			targetProxy = A8DFB6642E8EB3BB00939DF9 /* PBXContainerItemProxy */;
+		};
+		A8DFB66F2E8EB3BB00939DF9 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = A8DFB6522E8EB3BA00939DF9 /* DNA Animation v2 */;
+			targetProxy = A8DFB66E2E8EB3BB00939DF9 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		A8DFB6752E8EB3BB00939DF9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		A8DFB6762E8EB3BB00939DF9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		A8DFB6782E8EB3BB00939DF9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"DNA Animation v2/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Em-.DNA-Animation-v2";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		A8DFB6792E8EB3BB00939DF9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"DNA Animation v2/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Em-.DNA-Animation-v2";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		A8DFB67B2E8EB3BB00939DF9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Em-.DNA-Animation-v2Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/DNA Animation v2.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/DNA Animation v2";
+			};
+			name = Debug;
+		};
+		A8DFB67C2E8EB3BB00939DF9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Em-.DNA-Animation-v2Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/DNA Animation v2.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/DNA Animation v2";
+			};
+			name = Release;
+		};
+		A8DFB67E2E8EB3BB00939DF9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Em-.DNA-Animation-v2UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "DNA Animation v2";
+			};
+			name = Debug;
+		};
+		A8DFB67F2E8EB3BB00939DF9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Em-.DNA-Animation-v2UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "DNA Animation v2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A8DFB64E2E8EB3BA00939DF9 /* Build configuration list for PBXProject "DNA Animation v2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A8DFB6752E8EB3BB00939DF9 /* Debug */,
+				A8DFB6762E8EB3BB00939DF9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A8DFB6772E8EB3BB00939DF9 /* Build configuration list for PBXNativeTarget "DNA Animation v2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A8DFB6782E8EB3BB00939DF9 /* Debug */,
+				A8DFB6792E8EB3BB00939DF9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A8DFB67A2E8EB3BB00939DF9 /* Build configuration list for PBXNativeTarget "DNA Animation v2Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A8DFB67B2E8EB3BB00939DF9 /* Debug */,
+				A8DFB67C2E8EB3BB00939DF9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A8DFB67D2E8EB3BB00939DF9 /* Build configuration list for PBXNativeTarget "DNA Animation v2UITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A8DFB67E2E8EB3BB00939DF9 /* Debug */,
+				A8DFB67F2E8EB3BB00939DF9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A8DFB64B2E8EB3BA00939DF9 /* Project object */;
+}
